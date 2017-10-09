@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" type="text/css" href="/css/normalize.css">
+    <link rel="stylesheet" type="text/css" href="/css/main.css">
+    <link href="https://fonts.googleapis.com/css?family=PT+Sans" rel="stylesheet">
+  </head>
+  <body>
+    <header class='header'>
+      <h1>JAMIEBECKENSTEIN.COM</h1>
+    </header>
+    <nav class='main-nav'>
+      <ul class='nav-ul-left'>
+        <li><a href="/">work</a></li>
+        <li><a class='about' href="/about">about me</a></li>
+      </ul>
+      <ul class='nav-ul-right'>
+        <li><a href="/cv">contact</a></li>
+        <li><a href="/blog">blog</a></li>
+      </ul>
+    </nav>
+
+    <div class='hero-container'>
+      <h2>{{ page.header }}</h2>
+    </div>
+    <div class="content-container">
+
+    {{ content }}
+
+    </div>
+    <footer>
+      <ul>
+        <li><a href="">email</a></li>
+      </ul>
+    </footer>
+  </body>
+</html>
