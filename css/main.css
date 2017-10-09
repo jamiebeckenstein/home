@@ -24,6 +24,10 @@ h1 {
   margin-bottom: 70px;
   color: #939393;
 }
+
+.main-nav li:hover {
+  color: black;
+}
 .about {
   color: black;
 }
@@ -50,6 +54,7 @@ h2 {
   font-weight: 600;
   width: 500px;
   text-align: center;
+  line-height: 50px;
 }
 .content-container {
   display: flex;
@@ -63,4 +68,14 @@ p {
   margin: 10px 0 10px 0;
   font-size: 18px;
   line-height: 180%;
+}
+
+footer ul {
+  display: flex;
+  justify-content: center
+}
+
+.twitter-logo {
+  height: 40px;
+  width: 40px;
 }
