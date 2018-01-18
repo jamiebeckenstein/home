@@ -1,4 +1,4 @@
-* { all: unset }
+*{ all: unset }
 body {
   background: #f8e8e8;
   font-family: 'PT Sans', sans-serif;
@@ -27,6 +27,7 @@ h1 {
 
 .main-nav li:hover {
   color: black;
+  cursor: pointer;
 }
 .about {
   color: black;
