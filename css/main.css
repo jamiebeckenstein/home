@@ -79,6 +79,10 @@ p {
   line-height: 180%;
 }
 
+a {
+  cursor: pointer;
+}
+
 footer ul {
   display: flex;
   justify-content: center
