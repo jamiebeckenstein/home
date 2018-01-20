@@ -26,10 +26,6 @@ h1 {
   color: #939393;
 }
 
-.main-nav li:hover {
-  color: black;
-  cursor: pointer;
-}
 .about {
   color: black;
 }
@@ -99,3 +95,7 @@ footer ul {
   width: 40px;
 }
 
+.main-nav li:hover {
+  color: black;
+  cursor: pointer;
+}
