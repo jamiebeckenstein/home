@@ -95,7 +95,7 @@ footer ul {
   width: 40px;
 }
 
-.main-nav li:hover {
+.main-nav li:hover a {
   color: black;
   cursor: pointer;
 }
