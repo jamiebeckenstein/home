@@ -35,6 +35,11 @@ head {
   margin-top: 10px;
 }
 
+.content-cotainer a:visited,
+.content-container a {
+  color: #587da4;
+}
+
 .main-nav a:last-of-type {
   border-right: none;
 }
@@ -49,9 +54,11 @@ a:visited {
   color: #52a2f4;
 }
 
+.content-container a:hover,
 a:hover {
   color: #0077f1;
 }
+
 
 .about {
   color: black;
@@ -86,6 +93,8 @@ h2 {
   margin-top: 20px;
   width: 100%
 }
+
+
 
 .alignment-container {
   max-width: 800px;
