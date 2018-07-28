@@ -16,7 +16,7 @@ I love doing education work around trans experiences. I pass no judgements on wh
 
 I do sensitivity reading on TV and film scripts, plays, non-fiction articles, short stories, website copy, presentations/ workshops, and academic writing. I consult on workshops, group events, presentations, facilitation, etc..
 
-You can learn more about me and other work I’ve done [here](/index).  
+You can learn more about me and other work I’ve done [here](/index).
 
 ## PRICING
 

@@ -15,7 +15,7 @@ Questions can be almost anything, but work best if they’re seeking a new way t
 
 I do not do predictive readings, i.e. readings that tell you what will or won’t happen in the future. I also don’t read about how other people feel about you (i.e. I won’t read about if someone has a crush on you, but I would read about how you might engage with your feelings about the potential of their crush on you). 
 
-When you email your question, please note what services you’d like and how much you’ll be paying for them [link to pricing section]. You can send payment via PayPal (jamiebeckenstein@gmail.com) or Venmo [handle]. I will send a written reading within a week of receiving payment, or respond within 48 hours to start the process of setting a date and time to meet for an in-person reading.
+When you email your question, please note what services you’d like and [how much you’ll be paying for them](#pricing) You can send payment via PayPal (jamiebeckenstein@gmail.com) or Venmo [@james0ctober]. I will send a written reading within a week of receiving payment, or respond within 48 hours to start the process of setting a date and time to meet for an in-person reading.
 
 It is important to note that I am not a trained mental health professional. 
 
@@ -40,7 +40,7 @@ ANNOTATED PLAYLIST: The playlist above including annotations on why each song wa
 
 *I do not have a home base until June 1, 2019, and will be all over the US-- please email to see if/ when I will be in your area.
 
-## Pricing
+## Pricing ##
 
 WRITTEN, IN PERSON, AND VIDEO READINGS: Sliding scale, $30*-$90. 
 
@@ -52,7 +52,7 @@ ANNOTATED PLAYLIST: Sliding scale, $20*-$40
 
 *If the low end of the sliding scale is not possible, please be in touch anyway! We can work by barter (I am particularly interested in trading for Spanish lessons or ASL lessons, but am very open to other ideas).
 
-A NOTE ON THE SLIDING SCALE: I offer readings on a sliding scale because I practice a community-oriented tarot and deeply believe that it is a healing practice that should be accessible to everyone. That said, this is not a casual gig for me, it’s how I make my money for rent and food. If you are able to pay on the upper end of the scale, please do. It supports me in being able to do trans community work, which you can learn more about here [link]. 
+A NOTE ON THE SLIDING SCALE: I offer readings on a sliding scale because I practice a community-oriented tarot and deeply believe that it is a healing practice that should be accessible to everyone. That said, this is not a casual gig for me, it’s how I make my money for rent and food. If you are able to pay on the upper end of the scale, please do. It supports me in being able to do trans community work, which you can learn more about [here](https://transembassy.com). 
 
 ## Testimonials
 
