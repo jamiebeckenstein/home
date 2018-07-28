@@ -8,7 +8,8 @@
   </head>
   <body>
     <nav class='main-nav'>
-      <a href="https://transembassy.com">tarot </a>
+      <a href="/index">about</a>
+      <a href="/tarot">tarot</a>
       <a href="https://transembassy.com">sensitivity readings</a>
       <a href="https://transembassy.com">oral history interviewing</a>
       <a href="https://transembassy.com">community work</a>
@@ -17,17 +18,17 @@
     </nav>
 
     <header class='header'>
-      <h1>Jamie Beckenstein</h1>
+      <h1>{{page.title}}</h1>
     </header>
 
     <div class='hero-container'>
-      <h2>{{ page.header }}</h2>
+      <h2 class='hero-content'>{{ page.header }}</h2>
     </div>
     <div class="content-container">
+      <div class='alignment-container'>
+        {{ content }}
+      </div>
 
-    {{ content }}
-
-    </div>
     <footer>
       <ul>
         <li>

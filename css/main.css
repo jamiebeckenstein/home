@@ -15,7 +15,7 @@ head {
   align-items: center;
   flex-direction: row;
   font-size: 20px;
-  margin: 30px 0 20px 0;
+  margin: 30px 0 40px 0;
 }
 
 .main-nav {
@@ -56,32 +56,45 @@ a:hover {
 .about {
   color: black;
 }
+
 .hero-container {
   display: flex;
   justify-content: center;
-  margin: 0 0 20px 0;
+  width: 100%;
+}
+
+.hero-content {
+  max-width: 550px;
+}
+
+h1, h2, h3 {
+  margin: 0;
 }
 
 h2 {
   font-size: 28px;
   font-weight: 600;
-  width: 550px;
   text-align: center;
   line-height: 50px;
 }
+
 .content-container {
   display: flex;
   justify-content: center;
   flex-direction: column;
   align-items: center;
-  margin-top: 40px;
+  margin-top: 20px;
+  width: 100%
+}
+
+.alignment-container {
+  max-width: 800px;
 }
 
 p {
-  max-width: 800px;
-  margin: 10px 0 10px 0;
   font-size: 18px;
   line-height: 180%;
+  margin: 1em 0;
 }
 
 
