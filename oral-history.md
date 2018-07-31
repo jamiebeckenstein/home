@@ -8,7 +8,7 @@ header: ''
 
 Oral history is the practice of conducting audio interviews about people’s lives and experiences. It is a co-created space between the interviewer and the narrator (interviewee) that bares a record of someone’s memories. Oral history can function as a one-off (a single interview to record someone’s memories for the benefit of their loved ones and/or community), on a large scale (hundreds of interviews conducted surrounding a single topic, organization, or community), or anywhere in between. Interviews can be about a specific topic or can be a general life history interview. They usually last from one to two hours. I love oral history because of the ways that it allows for the passing on of memory, experience, and embodied history that might otherwise be lost or only recorded in a more filtered way. It is a form like no other. 
 
-## About Me
+## Relevant Experience
 
 Hi! I’m Jamie Beckenstein. You can find out more about me [here](/index) and more about my community work [here](https://transembassy.com)  I have eight years of experience interviewing people for a variety of projects. My largest projects have been interviewing 50 people about their experiences seeing sex in mainstream media to create a documentary theater play in 2014 and [interviewing 63 trans elders in rural areas about their experiences of happiness in 2016](https://transembassy.com/will/)  Additionally, I have interviewed on subjects such as definitions of sex, condom use among straight men, queer identity in a small town, the college application process in a high-achieving high school, and for the [Columbia University LGBTQ+ Alumni Oral History Project](http://www.ccohr.incite.columbia.edu/blog/2017/12/20-reflection-lgbtq-columbia-oral-history).
 

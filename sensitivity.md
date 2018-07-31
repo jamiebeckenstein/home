@@ -8,7 +8,7 @@ header: ''
 
 Sensitivity reading is when an expert in an underrepresented experience reviews a text and makes suggestions about how to make it more inclusive and accurate. This can include suggestions about language use and phrasing, how to make ideas accessible to multiple populations, and how to make sure that content about people with certain identities is not just about but for them. Sensitivity reading is increasingly popular in publishing, but is beginning to spread to other industries. It is similar to consulting, but exclusively for text.
 
-## About Me
+## Relevant Experience
 
 Hi! I’m Jamie Beckenstein. I’m a sensitivity reader and consultant specializing in trans issues. My expertise on the trans community comes from being a part of it (specifically, I am transsexual, genderqueer, and a trans man) in addition to working extensively within it (you can read more about my work with trans communities [here](https://transembassy.com)). Additionally, I have a BA in dramaturgy from Hampshire College with a specialization in TV.
 
