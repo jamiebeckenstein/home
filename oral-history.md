@@ -22,4 +22,4 @@ TRANSCRIPTION: $4.00/ recorded minute. (This may seem exorbitant! But transcript
 
 A NOTE ON THE SLIDING SCALE: I offer this work on a sliding scale because I practice a community-oriented oral history and deeply believe that it is a healing practice that should be accessible to everyone. That said, this is not a casual gig for me, it’s how I make my money for rent and food. If you are able to pay on the upper end of the scale, please do. It supports me in being able to do community work, which you can learn more about [here](https://transembassy.com). If the low end of the sliding scale is not possible, please be in touch anyway! We can potentially work by barter (I am particularly interested in trading for Spanish lessons or ASL lessons, but am very open to other ideas).
 
-
+To book or ask any questions, please use [this form](https://transembassy.com/contact) or email jamiebeckenstein [AT] gmail.com.

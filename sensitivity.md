@@ -21,3 +21,5 @@ You can learn more about me and other work I’ve done [here](/index).
 ## Pricing
 
 Sensitivity reading prices range significantly depending on the text, although usually run between $.02-$.05/ word. Consulting prices are also entirely dependent on the project, and run $20-$100/hr. Sliding scale is available for small organizations/ individual projects. Emails will be responded to with quotes within 48 hours. If you are seeking sensitivity reading, please send a sample of the work in your initial email and specify if you’d like just a document with changes tracked, a write up of recommended changes including explanations, and/or a video chat where we can discuss in greater depth. For journalism work on deadlines, please include SR: URGENT in the subject line.
+
+To book or ask any questions, please use [this form](https://transembassy.com/contact) or email jamiebeckenstein [AT] gmail.com.

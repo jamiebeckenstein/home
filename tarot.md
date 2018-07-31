@@ -51,6 +51,9 @@ ANNOTATED PLAYLIST: Sliding scale, $20*-$40
 
 A NOTE ON THE SLIDING SCALE: I offer readings on a sliding scale because I practice a community-oriented tarot and deeply believe that it is a healing practice that should be accessible to everyone. That said, this is not a casual gig for me, it’s how I make my money for rent and food. If you are able to pay on the upper end of the scale, please do. It supports me in being able to do trans community work, which you can learn more about [here](https://transembassy.com). 
 
+To book or ask any questions, please use [this form](https://transembassy.com/contact) or email jamiebeckenstein [AT] gmail.com.
+
+
 ## Testimonials
 
 “The first time I had a tarot session with Jamie, they did a three-card reading for me. I was new to tarot, so I appreciated that they patiently explained to me the format of the reading, why it was structured that way, and how I could engage with the topics we covered. They were warm and calm, guiding me through each step of the reading and discussing what they saw in the cards in clear and accessible language….Jamie offers myriad pathways to help [a group] relate to the cards and their messages— the artistic elements of the images on the cards, pop culture references, their own relationship to the cards, how the card is commonly interpreted, and questions the card might be prompting you to ask yourself. **They offer their interpretations without judgement**, checking in with you every step of the way to see if we understand or have questions. 
