@@ -21,9 +21,11 @@
       <h1>{{page.title}}</h1>
     </header>
 
-    <div class='hero-container'>
-      <h2 class='hero-content'>{{ page.header }}</h2>
-    </div>
+    {% if page.header != '' %}
+      <div class='hero-container'>
+        <h2 class='hero-content'>{{ page.header }}</h2>
+      </div>
+    {%  endif %}
     <div class="content-container">
       <div class='alignment-container'>
         {{ content }}

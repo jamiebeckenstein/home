@@ -4,10 +4,10 @@ title: 'Tarot Readings'
 header: ''
 ---
 
-## About me
+## About Me
 Hi! I’m Jamie Beckenstein. I’m a trans nerd witch with a deep investment in embodiment, spirituality, and road trips. You can learn more about me [here](/index) and more about my community work and writing [here](https://transembassy.com).
 
-## How I read tarot
+## How I Read Tarot
 
 Basically, you email me a question, and I use a tarot reading to help you explore it! I see tarot as a way to bring a new lens to an experience and/or emotion that you may be having. I believe that tarot works equally well if you, like me, believe that magic brings the cards that are needed to the top of the deck or if you, like many of my loved ones, believe that it’s random (or if you believe anything else!). 
 
